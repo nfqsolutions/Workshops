@@ -1,0 +1,14 @@
+[
+    { 
+        "name": "eval1",
+        "pricer": "newbond",
+        "args": [100.0,
+                 "#arg#2016-9-7",
+                 "#vec#time",
+                 { 
+                     "name": "DayCounter",
+                     "data": "#arg#actual/360"
+                 }
+                 ]
+    }
+]
