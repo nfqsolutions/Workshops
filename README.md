@@ -12,3 +12,7 @@ Workshop *Python for distributed systems* presented at the PyConES '16
 ### intro_python (Spanish)
 
 Introducción a Python para análisis de datos. Curso de 6 horas.
+
+### HighPerfPython (English)
+
+Workshop *High Performance Python for Data Analysis* presented at the PyData BCN '17
